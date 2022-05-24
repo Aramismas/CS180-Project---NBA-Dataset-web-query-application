@@ -1,0 +1,3 @@
+[submodule "cs180Project"]
+	path = cs180Project
+	url = https://github.com/ucr-cs180-fall21/cs180project-022-xyzcoders.git
